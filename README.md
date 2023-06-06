@@ -21,6 +21,12 @@ Dependencies
 
     Make sure to install these dependencies before running the code.
 
+Roadmap
+
+    - Figures: This directory contains graphical representations that summarize the results of our analyses. Each file is appropriately labeled to correspond with the specific question and answer derived from the code.nergy 
+    - Consumption Analysis for Buildings in San Francisco: This PowerPoint presentation serves as a comprehensive overview of our findings and will be utilized during our project presentation.
+    - Project_1.ipynb: This Jupyter Notebook file contains the code we developed to address the various data-related inquiries we encountered throughout the project.
+    
 Data Retrieval
 
     To retrieve the data, we used the Socrata API provided by data.sfgov.org. The API allows us to access the dataset and retrieve the first 60,000 results in JSON format. We then convert the data into a pandas DataFrame for further analysis.
